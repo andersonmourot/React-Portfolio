@@ -5,9 +5,9 @@ function Resume() {
     <section className="my-5">
       <div className="my-2">
       <p>
-        Download my <a href="https://www.linkedin.com/">resume</a>
+        Download my <a href="http://www.linkedin.com/in/anderson-mourot-85017499">resume</a>
         </p>
-        <h3>Front-end Proficiencies</h3>
+        <h3>Front-end Bootcamp Experiences</h3>
         <ul className="skills">
           <li>HTML</li>
           <li>CSS</li>
@@ -17,7 +17,7 @@ function Resume() {
           <li>React</li>
           <li>Bootstrap</li>
         </ul>
-        <h3>Back-end Proficiencies</h3>
+        <h3>Back-end Bootcamp Experieces</h3>
         <ul className="skills">
           <li>APIs</li>
           <li>Node</li>

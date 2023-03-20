@@ -44,6 +44,7 @@ function Contact() {
     <section>
       <form id="contact-form" onSubmit={handleSubmit}>
         <div>
+        <p>Email: andersongraymourot@gmail.com</p>
           <label htmlFor="name">Name:</label>
           <input
             type="text"

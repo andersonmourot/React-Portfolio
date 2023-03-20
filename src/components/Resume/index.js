@@ -5,28 +5,35 @@ function Resume() {
     <section className="my-5">
       <div className="my-2">
       <p>
-        Download my <a href="http://www.linkedin.com/in/anderson-mourot-85017499">resume</a>
+        Download my <a href="https://docs.google.com/document/d/1zTbcfJn25Nduy70J9shicxz3l5dDaf5M6_dlP18Mrd4/edit?usp=sharing">resumé</a>
         </p>
-        <h3>Front-end Bootcamp Experiences</h3>
+        <h3>Front-end Experience</h3>
         <ul className="skills">
           <li>HTML</li>
           <li>CSS</li>
           <li>JavaScript</li>
           <li>jQuery</li>
-          <li>responsive design</li>
+          <li>Responsive design</li>
           <li>React</li>
           <li>Bootstrap</li>
+          <li>MERN Stack</li>
+          <li>State Manipulation</li>
+          <li>Model-View-Controller Pattern</li>
         </ul>
-        <h3>Back-end Bootcamp Experieces</h3>
+        <h3>Back-end Experiece</h3>
         <ul className="skills">
           <li>APIs</li>
-          <li>Node</li>
-          <li>Express</li>
+          <li>Node.js</li>
+          <li>Express.js</li>
           <li>MySQL, Sequelize</li>
           <li>MongoDB, Mongoose</li>
           <li>REST</li>
           <li>GraphQL</li>
+          <li>Object-Oriented Programming</li>
+          <li>Bcrypt</li>
+          <li>User Authentication</li>
         </ul>
+        <p>Contact me: andersongraymourot@gmail.com</p>
       </div>
     </section>
   );

@@ -14,14 +14,14 @@ function Portfolio() {
     {
       name: 'work-day-scheduler',
       description: 'Daily planner',
-      link: "https://andersonmourot.github.io/planner-project/",
-      repo: "https://github.com/andersonmourot/planner-project"
+      link: "https://andersonmourot.github.io/Work-Day-Scheduler/",
+      repo: "https://github.com/andersonmourot/Work-Day-Scheduler"
     },
     {
-      name: 'weather-dashboard',
-      description: 'Weather searching engine',
-      link: "https://andersonmourot.github.io/Weather-Dashboard/",
-      repo: "https://github.com/andersonmourot/Weather-Dashboard"
+      name: 'expense-tracker',
+      description: 'Expense tracking app',
+      link: "https://cryptic-hollows-38655.herokuapp.com/login",
+      repo: "https://github.com/andersonmourot/Expense-Tracker-Project"
     }
   ]);
 
